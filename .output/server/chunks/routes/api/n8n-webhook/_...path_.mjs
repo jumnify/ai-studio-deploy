@@ -12,11 +12,11 @@ const ____path_ = defineEventHandler(async (event) => {
   var _a;
   const method = getMethod(event);
   const path = ((_a = event.context.params) == null ? void 0 : _a.path) || "";
-  const n8nBaseUrl = getHeader(event, "x-n8n-base-url");
+  const n8nBaseUrl = process.env.N8N_INTERNAL_URL || getHeader(event, "x-n8n-base-url");
   if (!n8nBaseUrl) {
     throw createError({
       statusCode: 400,
-      statusMessage: "Missing x-n8n-base-url header"
+      statusMessage: "N8N not configured. Set N8N_INTERNAL_URL environment variable."
     });
   }
   const cleanBase = n8nBaseUrl.replace(/\/+$/, "");

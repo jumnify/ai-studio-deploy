@@ -12,12 +12,12 @@ const ____path_ = defineEventHandler(async (event) => {
   var _a;
   const method = getMethod(event);
   const path = ((_a = event.context.params) == null ? void 0 : _a.path) || "";
-  const n8nBaseUrl = getHeader(event, "x-n8n-base-url");
-  const n8nApiKey = getHeader(event, "x-n8n-api-key");
+  const n8nBaseUrl = process.env.N8N_INTERNAL_URL || getHeader(event, "x-n8n-base-url");
+  const n8nApiKey = process.env.N8N_API_KEY || getHeader(event, "x-n8n-api-key");
   if (!n8nBaseUrl || !n8nApiKey) {
     throw createError({
       statusCode: 400,
-      statusMessage: "Missing x-n8n-base-url or x-n8n-api-key headers"
+      statusMessage: "N8N not configured. Set N8N_INTERNAL_URL and N8N_API_KEY environment variables."
     });
   }
   const cleanBase = n8nBaseUrl.replace(/\/+$/, "");
