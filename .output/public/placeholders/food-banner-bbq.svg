@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="600" viewBox="0 0 1920 600">
+  <defs><linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#f97316"/><stop offset="100%" stop-color="#dc2626"/></linearGradient></defs>
+  <rect fill="url(#g1)" width="1920" height="600" rx="8"/>
+  <circle cx="300" cy="300" r="140" fill="#fff" opacity="0.1"/>
+  <text x="300" y="310" text-anchor="middle" font-family="Arial,sans-serif" font-size="80">🔥</text>
+  <text x="960" y="250" text-anchor="middle" font-family="Arial,sans-serif" font-size="56" font-weight="bold" fill="#fff">Zomer BBQ Actie</text>
+  <text x="960" y="330" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" fill="#fef3c7">Alle BBQ-producten in de aanbieding bij Jumbo</text>
+  <rect x="820" y="380" width="280" height="60" rx="30" fill="#fbbf24"/>
+  <text x="960" y="420" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#78350f">Bekijk aanbiedingen</text>
+  <text x="960" y="560" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#fed7aa" opacity="0.6">Demo placeholder</text>
+</svg>

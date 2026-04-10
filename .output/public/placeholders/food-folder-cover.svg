@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1100" viewBox="0 0 800 1100">
+  <rect fill="#fbbf24" width="800" height="1100" rx="8"/>
+  <rect x="40" y="40" width="720" height="1020" rx="12" fill="#fff"/>
+  <rect x="60" y="60" width="680" height="200" rx="8" fill="#15803d"/>
+  <text x="400" y="140" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="bold" fill="#fff">Hallo Jumbo</text>
+  <text x="400" y="185" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#bbf7d0">Weekaanbiedingen</text>
+  <text x="400" y="230" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#86efac">Geldig van ma t/m zo</text>
+  <rect x="80" y="300" width="280" height="180" rx="8" fill="#fef9c3"/>
+  <text x="220" y="400" text-anchor="middle" font-family="Arial,sans-serif" font-size="48">🥩</text>
+  <text x="220" y="455" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#78350f">Vlees & Vis</text>
+  <rect x="440" y="300" width="280" height="180" rx="8" fill="#ecfdf5"/>
+  <text x="580" y="400" text-anchor="middle" font-family="Arial,sans-serif" font-size="48">🥬</text>
+  <text x="580" y="455" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#166534">Groente & Fruit</text>
+  <rect x="80" y="520" width="280" height="180" rx="8" fill="#fef3c7"/>
+  <text x="220" y="620" text-anchor="middle" font-family="Arial,sans-serif" font-size="48">🧀</text>
+  <text x="220" y="675" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#92400e">Zuivel & Kaas</text>
+  <rect x="440" y="520" width="280" height="180" rx="8" fill="#fdf4ff"/>
+  <text x="580" y="620" text-anchor="middle" font-family="Arial,sans-serif" font-size="48">🍷</text>
+  <text x="580" y="675" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#581c87">Wijn & Dranken</text>
+  <rect x="80" y="740" width="640" height="100" rx="8" fill="#fbbf24"/>
+  <text x="400" y="795" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#78350f">Alles voor de BBQ!</text>
+  <text x="400" y="830" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#92400e">Bekijk alle aanbiedingen op Jumbo.com</text>
+  <text x="400" y="1020" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#d4a" opacity="0.4">Folder demo placeholder</text>
+</svg>

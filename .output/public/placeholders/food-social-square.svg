@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect fill="#fef9c3" width="1080" height="1080" rx="16"/>
+  <rect x="60" y="60" width="960" height="960" rx="24" fill="#fefce8" stroke="#fbbf24" stroke-width="3"/>
+  <circle cx="540" cy="400" r="200" fill="#fbbf24" opacity="0.15"/>
+  <text x="540" y="350" text-anchor="middle" font-family="Arial,sans-serif" font-size="120">🥗</text>
+  <text x="540" y="500" text-anchor="middle" font-family="Arial,sans-serif" font-size="48" font-weight="bold" fill="#78350f">Verse Salade</text>
+  <text x="540" y="570" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#92400e">Nu extra voordelig bij Jumbo</text>
+  <rect x="340" y="640" width="400" height="70" rx="35" fill="#15803d"/>
+  <text x="540" y="685" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#fff">Bestel nu →</text>
+  <text x="540" y="960" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#d4a" opacity="0.4">Social post demo</text>
+</svg>

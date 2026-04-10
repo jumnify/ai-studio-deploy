@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="480" viewBox="0 0 1440 480">
+  <defs><linearGradient id="gw" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#581c87"/><stop offset="100%" stop-color="#7c3aed"/></linearGradient></defs>
+  <rect fill="url(#gw)" width="1440" height="480" rx="8"/>
+  <text x="250" y="260" text-anchor="middle" font-family="Arial,sans-serif" font-size="100">🍷</text>
+  <text x="720" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="52" font-weight="bold" fill="#fff">Jumbo Wijnfestival</text>
+  <text x="720" y="270" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" fill="#e9d5ff">25% korting op alle wijnen | 2 weken lang</text>
+  <rect x="570" y="310" width="300" height="56" rx="28" fill="#fbbf24"/>
+  <text x="720" y="346" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#78350f">Ontdek wijnen</text>
+  <text x="720" y="450" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#c4b5fd" opacity="0.5">Demo placeholder</text>
+</svg>

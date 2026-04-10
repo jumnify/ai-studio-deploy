@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <rect fill="#fffbeb" width="1600" height="1200" rx="8"/>
+  <rect x="100" y="100" width="600" height="450" rx="12" fill="#fef3c7" stroke="#fbbf24" stroke-width="2" stroke-dasharray="8,4"/>
+  <text x="400" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="60">🫑</text>
+  <text x="400" y="380" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#92400e">Origineel 400×300</text>
+  <text x="400" y="500" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#b45309">Laag detail</text>
+  <path d="M750,325 L850,325 L830,305 M850,325 L830,345" fill="none" stroke="#fbbf24" stroke-width="4"/>
+  <rect x="900" y="100" width="600" height="450" rx="12" fill="#fef9c3" stroke="#15803d" stroke-width="3"/>
+  <text x="1200" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="80">🫑</text>
+  <text x="1200" y="400" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#166534">Upscaled 1600×1200</text>
+  <text x="1200" y="500" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#15803d">Hoog detail • x4</text>
+  <rect x="500" y="700" width="600" height="80" rx="40" fill="#15803d"/>
+  <text x="800" y="750" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#fff">AI Upscaled ✓</text>
+  <text x="800" y="1150" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#b45309" opacity="0.4">Upscaler demo</text>
+</svg>

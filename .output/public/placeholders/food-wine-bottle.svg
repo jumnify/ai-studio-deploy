@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600">
+  <rect fill="#faf5ff" width="400" height="600" rx="12"/>
+  <rect x="170" y="40" width="60" height="30" rx="6" fill="#581c87"/>
+  <rect x="160" y="70" width="80" height="400" rx="14" fill="#7c3aed"/>
+  <rect x="165" y="100" width="70" height="80" rx="6" fill="#fef3c7"/>
+  <text x="200" y="135" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#581c87">JUMBO</text>
+  <text x="200" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#581c87">Wijn</text>
+  <text x="200" y="170" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#7c2d12">2023</text>
+  <rect x="165" y="200" width="70" height="200" rx="4" fill="#6d28d9"/>
+  <rect x="175" y="460" width="50" height="10" rx="5" fill="#4c1d95"/>
+  <text x="200" y="530" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#581c87">Rode Wijn</text>
+  <text x="200" y="555" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#7c3aed">€ 5,99</text>
+  <text x="200" y="585" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#c4b5fd" opacity="0.5">Demo</text>
+</svg>
