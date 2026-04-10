@@ -1,1 +1,0 @@
-import{d as e,c as t,o as s,a as o,r,_ as c}from"./BTxDFRgC.js";const _={class:"ai-auth-layout"},d={class:"ai-auth-wrapper"},n=e({__name:"auth",setup(p){return(a,u)=>(s(),t("div",_,[o("div",d,[r(a.$slots,"default",{},void 0,!0)])]))}}),l=c(n,[["__scopeId","data-v-51a1dd20"]]);export{l as default};

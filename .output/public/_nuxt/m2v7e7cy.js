@@ -1,0 +1,1 @@
+import{d as t,f as a,o as n,h as o,j as c,u as s,Z as _,$ as r}from"./BtYolIu8.js";const m=t({__name:"okta-callback",setup(l){return(p,u)=>{const e=r;return n(),a(e,null,{default:o(()=>[c(s(_))]),_:1})}}});export{m as default};
